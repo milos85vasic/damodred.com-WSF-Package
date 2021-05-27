@@ -1,7 +1,7 @@
 {
   "name": "damodred.com WSF configuration",
   "uses": [
-    "main/stacks/proxy.caching:1.0.0"
+    "main/stacks/wordpress:1.0.0"
   ],
   "includes": [
   ],
