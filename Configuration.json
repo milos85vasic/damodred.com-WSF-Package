@@ -8,14 +8,14 @@
   "variables": {
     "SERVICE": {
       "DATABASE": {
-        "NAME": "damodred.com",
+        "NAME": "",
         "PORTS": {
           "PORT": 5432,
           "PORT_EXPOSED": 35432
         },
-        "TYPE": "Postgres",
+        "TYPE": "web_service_db",
         "HOST": "127.0.0.1",
-        "DB_DIRECTORY": "website"
+        "DB_DIRECTORY": "damodred.com"
       }
     }
   }
