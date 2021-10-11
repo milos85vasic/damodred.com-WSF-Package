@@ -4,6 +4,7 @@
     "main/stacks/wordpress:1.0.0"
   ],
   "includes": [
+    "Includes/Common.json"
   ],
   "variables": {
     "SERVICE": {
