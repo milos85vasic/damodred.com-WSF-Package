@@ -1,3 +1,3 @@
-# damodred.com WSF Package
+# WSF Package
 
-Web Service Factory installation package for damodred.com
+Web Service Factory installation package example.
